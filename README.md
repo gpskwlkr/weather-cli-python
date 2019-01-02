@@ -2,8 +2,8 @@
 
 # Used 
 
-https://darksky.net - for getting current weather & temperature.
-https://ipinfo.io/ - for getting location by IP.
+https://darksky.net - for getting current weather & temperature. <br />
+https://ipinfo.io/ - for getting location by IP. <br />
 https://locationiq.com - for gettig coordinates of current location.
 
 # Modules
