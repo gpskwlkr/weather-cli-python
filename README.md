@@ -21,3 +21,10 @@ python3 main.py current # May be inaccurate because of getting location by IP
 ```python
 python3 main.py New-York # or any other city
 ```
+
+# Result example
+
+```python
+The weather in Tbilisi is - Partly Cloudy
+Temperature is - -2 C
+```
