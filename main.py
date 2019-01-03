@@ -8,8 +8,8 @@ Keys are not working right now. You need to sign up at websites mentioned in REA
 Take a free API key there and change them in code, to make it work
 '''
 
-LOCATION_SAMPLE_API_KEY = 'c13857576c866b'
-WEATHER_API_SAMPLE_KEY = '12aeec80eff2989226b8f207958d42b5'
+LOCATION_SAMPLE_API_KEY = 'c13857576c866a'
+WEATHER_API_SAMPLE_KEY = '12aeec80eff2989226b8f207958d42b6'
 
 @click.command()
 @click.argument('location') 
