@@ -1,4 +1,4 @@
-# weather-cli-python
+# Weather CLI - Python
 
 # Used 
 
