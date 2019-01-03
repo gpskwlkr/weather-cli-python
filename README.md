@@ -27,7 +27,15 @@ python3 main.py New-York # or any other city
 Add an alias to .bashrc via
 
 ```python
+nano ~/.bashrc
+
+# add this line in the end
+
 alias weather='python3 path/to/script/main.py'
+
+# and activate it
+
+source ~/.bashrc
 ```
 
 And use then via alias
